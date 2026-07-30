@@ -32,6 +32,22 @@ ficha()               Método              Imprime o painel estilizado no termin
 ```
 ---
 
+## 💻 Como Usar
+
+from gamer import Gamer
+
+# Criando uma instância do jogador
+jogador = Gamer('Fabrício da Silva', 'detonador2025')
+
+# Adicionando jogos favoritos
+jogador.add_favoritos('Mario Bros')
+jogador.add_favoritos('God of War')
+
+# Exibindo a ficha formatada no terminal
+jogador.ficha()
+
+---
+
 ## 🖼️ Exemplo de Saída
 ```text
 ┌────────────── Jogador(a) <detonador2025> ──────────────┐
