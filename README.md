@@ -22,12 +22,12 @@ O projeto foi desenvolvido para demonstrar conceitos fundamentais do Python de f
 ---
 
 ## 📐 Estrutura da Classe
-
+```text
 Atributo / Método      Tipo               Descrição
 nome                  Atributo (str)      Nome real do jogador.
 apelido               Atributo (str)      Nickname do jogador.
 jogos                 Atributo (list)     Lista de jogos favoritos.
 add_favoritos(jogo)   Método              Adiciona um jogo à lista e ordena em ordem alfabética.
 ficha()               Método              Imprime o painel estilizado no terminal com as informações do perfil.
-
+```
 ---
