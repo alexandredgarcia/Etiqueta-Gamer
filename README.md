@@ -33,7 +33,7 @@ ficha()               Método              Imprime o painel estilizado no termin
 ---
 
 ## 🖼️ Exemplo de Saída
-
+```text
 ┌────────────── Jogador(a) <detonador2025> ──────────────┐
 │ Nome real: Fabrício da Silva                           │
 │ Jogos favoritos:                                       │
@@ -43,7 +43,7 @@ ficha()               Método              Imprime o painel estilizado no termin
 │ 🎮 Mario Bros                                          │
 │ 🎮 Sonic                                               │
 └────────────────────────────────────────────────────────┘
-
+```
 ---
 
 👤 Autor: Desenvolvido por Alexandre Dias Garcia
