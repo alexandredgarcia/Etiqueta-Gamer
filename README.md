@@ -4,19 +4,6 @@ Um script Python orientado a objetos que gerencia e exibe cartões/fichas de per
 
 ---
 
-## 📌 Sumário
-
-- [Visão Geral](#-visão-geral)
-- [Recursos](#-recursos)
-- [Pré-requisitos](#-pré-requisitos)
-- [Instalação](#-instalação)
-- [Como Usar](#-como-usar)
-- [Estrutura da Classe `Gamer`](#-estrutura-da-classe-gamer)
-- [Exemplo de Saída](#-exemplo-de-saída)
-- [Licença](#-licença)
-
----
-
 ## 🔍 Visão Geral
 
 O projeto foi desenvolvido para demonstrar conceitos fundamentais do Python de forma prática e visualmente atraente:
@@ -30,7 +17,7 @@ O projeto foi desenvolvido para demonstrar conceitos fundamentais do Python de f
 
 - 👤 **Cadastro de Jogadores**: Armazena o nome real e o nickname do jogador.
 - 🎮 **Gerenciamento de Jogos Favoritos**: Permite adicionar jogos e os mantém ordenados alfabeticamente.
-- 🎨 **Ficha Visual (Rich Panel)**: Exibe a ficha do jogador com bordas, cores personalizadas e ícones de videogame (`:video_game:`).
+- 🎨 **Ficha Visual (Rich Panel)**: Exibe a ficha do jogador com bordas, cores personalizadas e ícones de videogame (:video_game:).
 
 ---
 
