@@ -32,7 +32,7 @@ ficha()               Método              Imprime o painel estilizado no termin
 ```
 ---
 
-## 💻 Como Usar
+## 💻 Exemplo de código
 
 from gamer import Gamer
 
