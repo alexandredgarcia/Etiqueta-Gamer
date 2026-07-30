@@ -31,3 +31,19 @@ add_favoritos(jogo)   Método              Adiciona um jogo à lista e ordena em
 ficha()               Método              Imprime o painel estilizado no terminal com as informações do perfil.
 ```
 ---
+
+## 🖼️ Exemplo de Saída
+
+┌────────────── Jogador(a) <detonador2025> ──────────────┐
+│ Nome real: Fabrício da Silva                           │
+│ Jogos favoritos:                                       │
+│                                                        │
+│ 🎮 FIFA 26                                             │
+│ 🎮 God of War                                          │
+│ 🎮 Mario Bros                                          │
+│ 🎮 Sonic                                               │
+└────────────────────────────────────────────────────────┘
+
+---
+
+
