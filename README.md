@@ -46,4 +46,10 @@ ficha()               Método              Imprime o painel estilizado no termin
 
 ---
 
+👤 Autor: Desenvolvido por Alexandre Dias Garcia
 
+Aspirante em Desenvolvimento Python
+
+🧑‍💻 Alexandre Dias Garcia 🔗 https://www.linkedin.com/in/alexandred-garcia
+
+📧 alexandredgarcia23@gmail.com
