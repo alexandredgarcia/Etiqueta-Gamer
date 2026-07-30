@@ -1,4 +1,4 @@
-# 🎮 Gamer Profile Manager
+# 🎮 Etiqueta Gamer 
 
 Um script Python orientado a objetos que gerencia e exibe cartões/fichas de perfil de jogadores no terminal, com formatação rica, cores e ícones utilizando a biblioteca **[Rich](https://github.com/Textualize/rich)**.
 
@@ -20,7 +20,7 @@ Um script Python orientado a objetos que gerencia e exibe cartões/fichas de per
 ## 🔍 Visão Geral
 
 O projeto foi desenvolvido para demonstrar conceitos fundamentais do Python de forma prática e visualmente atraente:
-- **Programação Orientada a Objetos (POO)**: Encapsulamento de atributos (`nome`, `apelido`, `jogos`) e métodos.
+- **Programação Orientada a Objetos (POO)**: Encapsulamento de atributos (nome, apelido, jogos) e métodos.
 - **Interface de Linha de Comando Estilizada**: Uso do Rich Panel para transformar textos simples em painéis organizados no terminal.
 - **Manipulação de Listas**: Inserção e ordenação automática alfabética dos jogos favoritos.
 
@@ -34,15 +34,13 @@ O projeto foi desenvolvido para demonstrar conceitos fundamentais do Python de f
 
 ---
 
-## 🛠️ Pré-requisitos
+## 📐 Estrutura da Classe
 
-Antes de começar, você precisará ter o **Python 3.8+** instalado na sua máquina.
+Atributo / Método      Tipo               Descrição
+nome                  Atributo (str)      Nome real do jogador.
+apelido               Atributo (str)      Nickname do jogador.
+jogos                 Atributo (list)     Lista de jogos favoritos.
+add_favoritos(jogo)   Método              Adiciona um jogo à lista e ordena em ordem alfabética.
+ficha()               Método              Imprime o painel estilizado no terminal com as informações do perfil.
 
 ---
-
-## 🚀 Instalação
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/gamer-profile-manager.git](https://github.com/seu-usuario/gamer-profile-manager.git)
-   cd gamer-profile-manager
