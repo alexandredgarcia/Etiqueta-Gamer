@@ -41,6 +41,7 @@ jogador = Gamer('Fabrício da Silva', 'detonador2025')
 
 # Adicionando jogos favoritos
 jogador.add_favoritos('Mario Bros')
+
 jogador.add_favoritos('God of War')
 
 # Exibindo a ficha formatada no terminal
